@@ -1,0 +1,15 @@
+/* normalizar navegador */
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: dimgray;
+}
+/* margin espacio entre elementos
+padding borde util fuera del contenedor,
+se separa en px,
+puede usarse eje x y eje y.
+box-sizing: border-box
+*/
